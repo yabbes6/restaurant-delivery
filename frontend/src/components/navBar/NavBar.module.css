@@ -1,0 +1,24 @@
+.nav_title{
+    width: 500px;
+}
+.nav_pages{
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    cursor: pointer;
+}
+.nav_pages hr{
+    border: none;
+    width: 100%;
+    height: 3px;
+    border-radius: 10px;
+    background:red;
+}
+
+.nav_link{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+
